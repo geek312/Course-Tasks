@@ -1,2 +1,2 @@
-## Some projects of coursees
+## Some projects of courses
 homework1
